@@ -1,2 +1,2 @@
-# compositeapp.github.io
-Composite website
+# Composite
+Composite Smart Contract Editor for Ethereum is coming soon.
